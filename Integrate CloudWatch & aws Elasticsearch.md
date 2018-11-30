@@ -18,6 +18,10 @@ In the Overview tab at the bottom, you should see the Domain status as Loading. 
 After the Domain status changes to Active, make a note of the Kibana URL in the Overview tab at the bottom as shown in the screenshot below.
 
 ## Step 2. Integrate Amazon CloudWatch Logs with the Amazon ES domain.
+a) choose a vpc and create flow log. Within this process, you need to create a new IAM role.
+b) Follow edx exercise instruction to integrate CW log to Amazon ES domain.
+
+
 In this section, you will integrate the CloudWatch logs created in the previous exercise with the Amazon ES domain so that the logs are ingested into the Amazon ES domain. Follow the steps below.
 
 In the console, click Services, then click CloudWatch to open the CloudWatch dashboard.
