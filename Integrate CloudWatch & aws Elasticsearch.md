@@ -43,7 +43,7 @@ Click Start Streaming.
 You have successfully integrated Amazon CloudWatch Logs with the Amazon ES domain - application-logs. The logs can now be visualized in Kibana.
 
 
-
+Create a new role called flowlogs role
 
 
 
