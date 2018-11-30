@@ -49,5 +49,6 @@ You have successfully integrated Amazon CloudWatch Logs with the Amazon ES domai
 
 Create a new role called flowlogs role
 
-
+## Step 3. Configure Kibana dashboard 
+https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD2+1T2018/courseware/1f569527824f47d0ba679ae51e225d4c/913eacdbfc44407e8b7ae1df9ff9a4ce/?child=first
 
